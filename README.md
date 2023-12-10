@@ -20,4 +20,4 @@ Data: Separated into Original and Prepared Data. These contain the original data
 
 Scripts: Contains all the Python coding involved for the entire analysis process
 
-Analysis: Contains the Visualizations used for developing insights and presenting on the final report
+Analysis: Contains the Visualizations used for developing insights and presenting on the final report Visualizations were created in Tableau. The link to the storyboard can be found here: https://public.tableau.com/app/profile/mark.grillo/viz/UFCHistoryFightAnalysisProject1997-2020CF/Story1?publish=yes
